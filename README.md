@@ -1,5 +1,7 @@
 # Teste Supera WebDeveloper
 
+Projeto do teste de vaga Front-end da Supera
+
 ## Para iniciar, primeiro installe as dependencias com:
 
 ```javascript
